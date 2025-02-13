@@ -1,0 +1,2 @@
+console.writeline ("enter num 1")
+int num1 = convert.toint32(console.readline());
