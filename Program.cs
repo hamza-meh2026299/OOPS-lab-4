@@ -36,6 +36,10 @@ namespace OOPS_lab_4
 
             Cow cow = new Cow("Daisy");
             cow.GiveMilk();
+            //for Github practice
+            int a=123;
+            int b=1234
+            int result=a+b;
 
         }
     }
